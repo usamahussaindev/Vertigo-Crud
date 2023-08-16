@@ -3,9 +3,6 @@
 Vertigo CRUD Application is a simple yet powerful CRUD (Create, Read, Update, Delete) application built using C# and Visual Studio. This application provides an easy-to-use interface for managing data records, demonstrating the fundamental operations of a database system.
 
 
-![Screenshot 2023-08-15 110127](https://github.com/usamahussaindev/Vertigo-Crud/assets/118635657/d38278b2-f819-4058-b2ef-7184f0e77051)
-
-
 
 ## Features
 
